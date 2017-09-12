@@ -20,7 +20,7 @@ Uses hubot brain.
 
 ## Add it to your hubot
 
-Run the following to your package.json
+Add the following to your package.json
 
 "hubot-sotw": "git+https://github.com/mmraz/hubot-sotw.git"
 
