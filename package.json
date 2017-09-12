@@ -1,0 +1,22 @@
+{
+  "name": "hubot-sotw",
+  "version": "0.0.4",
+  "description": "A script that allows users to create SotW, add options and vote on them",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmraz/hubot-sotw.git"
+  },
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script"
+  },
+  "author": "Michael Mraz (https://github.com/mmraz)",
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "~1.6",
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  }
+}
